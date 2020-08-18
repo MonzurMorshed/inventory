@@ -1,0 +1,242 @@
+
+[15-Jul-2017 08:13:37 UTC] PHP Fatal error:  Call to undefined method Customer_model::customerById() in /home/envinfo1/public_html/pos/application/controllers/customer/Customer.php on line 27
+[15-Jul-2017 08:21:05 UTC] PHP Fatal error:  Call to undefined method Customer_model::customerById() in /home/envinfo1/public_html/pos/application/controllers/customer/Customer.php on line 27
+[15-Jul-2017 10:36:23 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 10
+[15-Jul-2017 10:39:14 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 10
+[15-Jul-2017 10:39:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 10:40:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 10:40:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 10:40:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 10:42:24 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 10
+[15-Jul-2017 10:47:20 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 10
+[15-Jul-2017 11:13:16 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 11
+[15-Jul-2017 11:13:54 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 11
+[15-Jul-2017 11:15:17 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 11
+[15-Jul-2017 11:25:13 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 13
+[15-Jul-2017 11:26:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 11:26:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 6
+[15-Jul-2017 11:27:12 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 9
+[15-Jul-2017 11:32:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 28
+[15-Jul-2017 11:37:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 28
+[15-Jul-2017 11:38:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 28
+[15-Jul-2017 11:42:44 UTC] PHP Fatal error:  Call to a member function customerById() on null in /home/envinfo1/public_html/pos/application/controllers/Report.php on line 100
+[15-Jul-2017 11:44:48 UTC] PHP Fatal error:  Call to a member function customerById() on null in /home/envinfo1/public_html/pos/application/controllers/Report.php on line 100
+[15-Jul-2017 11:44:51 UTC] PHP Fatal error:  Call to a member function customerById() on null in /home/envinfo1/public_html/pos/application/controllers/Report.php on line 100
+[15-Jul-2017 11:51:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 28
+[15-Jul-2017 11:52:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 28
+[15-Jul-2017 11:53:47 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 32
+[15-Jul-2017 11:53:51 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 32
+[15-Jul-2017 11:54:37 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 32
+[15-Jul-2017 11:54:40 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 32
+[16-Jul-2017 04:27:27 UTC] PHP Fatal error:  Call to a member function fetch_data() on null in /home/envinfo1/public_html/pos/application/controllers/product/Product.php on line 166
+[16-Jul-2017 04:59:01 UTC] PHP Fatal error:  Call to a member function WriteHTMLCell() on null in /home/envinfo1/public_html/pos/application/views/product/product_tcpdf.php on line 33
+[16-Jul-2017 05:33:53 UTC] PHP Fatal error:  Function name must be a string in /home/envinfo1/public_html/pos/application/controllers/Report.php on line 35
+[16-Jul-2017 06:04:51 UTC] PHP Fatal error:  Call to undefined method Product_model::damage_product() in /home/envinfo1/public_html/pos/application/controllers/product/Product.php on line 179
+[16-Jul-2017 07:08:50 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/models/customer/Customer_model.php on line 21
+[16-Jul-2017 07:09:49 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/models/customer/Customer_model.php on line 21
+[16-Jul-2017 07:10:14 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/models/customer/Customer_model.php on line 21
+[16-Jul-2017 07:45:01 UTC] PHP Parse error:  syntax error, unexpected '$report' (T_VARIABLE) in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 134
+[16-Jul-2017 09:59:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/envinfo1/public_html/pos/application/views/customer/profileReport.php on line 131
+[16-Jul-2017 10:51:40 UTC] PHP Parse error:  syntax error, unexpected 'customer' (T_STRING), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/views/customer/profile.php on line 52
+[16-Jul-2017 10:51:52 UTC] PHP Parse error:  syntax error, unexpected 'customer' (T_STRING), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/views/customer/profile.php on line 52
+[24-Jul-2017 06:27:47 UTC] PHP Fatal error:  Undefined class constant '__construct' in /home/envinfo1/public_html/pos/application/controllers/sales/Sa.php on line 8
+[24-Jul-2017 07:59:12 UTC] PHP Fatal error:  Call to undefined function substring() in /home/envinfo1/public_html/pos/application/views/home_view.php on line 18
+[24-Jul-2017 08:18:15 UTC] PHP Parse error:  syntax error, unexpected '$lineG' (T_VARIABLE) in /home/envinfo1/public_html/pos/application/views/home_view.php on line 17
+[24-Jul-2017 08:38:39 UTC] PHP Fatal error:  Call to undefined function encode() in /home/envinfo1/public_html/pos/application/views/home_view.php on line 13
+[24-Jul-2017 08:38:47 UTC] PHP Fatal error:  Call to undefined function encode() in /home/envinfo1/public_html/pos/application/views/home_view.php on line 13
+[24-Jul-2017 08:49:50 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 9
+[24-Jul-2017 09:35:56 UTC] PHP Fatal error:  Call to a member function result() on array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 5
+[24-Jul-2017 09:53:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 09:53:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 09:54:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 09:57:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 09:57:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 10:06:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 10:36:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 8
+[24-Jul-2017 11:24:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/envinfo1/public_html/pos/application/views/home_view.php on line 20
+[24-Jul-2017 11:26:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::execute() in /home/envinfo1/public_html/pos/application/views/home_view.php on line 21
+[24-Jul-2017 11:26:09 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::execute() in /home/envinfo1/public_html/pos/application/views/home_view.php on line 21
+[25-Jul-2017 06:53:04 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 3
+[25-Jul-2017 06:53:56 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/envinfo1/public_html/pos/application/views/home_view.php on line 3
+[25-Jul-2017 07:37:15 UTC] PHP Fatal error:  [] operator not supported for strings in /home/envinfo1/public_html/pos/application/views/home_view.php on line 10
+[25-Jul-2017 07:49:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 6
+[25-Jul-2017 07:50:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 7
+[25-Jul-2017 07:50:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 7
+[25-Jul-2017 07:50:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 7
+[25-Jul-2017 07:52:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 7
+[25-Jul-2017 07:59:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/views/home_view.php on line 9
+[25-Jul-2017 08:02:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/envinfo1/public_html/pos/application/views/home_view.php on line 9
+[16-Sep-2017 07:15:38 UTC] PHP Fatal error:  Call to undefined function alert() in /home/envinfo1/public_html/pos/application/controllers/employee/Employer.php on line 54
+[18-Sep-2017 03:57:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/envinfo1/public_html/pos/application/views/company/cinfo.php on line 57
+[18-Sep-2017 06:00:39 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/views/supplier/index.php on line 54
+[31-Oct-2017 07:13:56 UTC] PHP Fatal error:  Call to undefined method Auth_model::allData() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 23
+[31-Oct-2017 10:33:19 UTC] PHP Fatal error:  Class 'date' not found in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 59
+[31-Oct-2017 11:10:42 UTC] PHP Fatal error:  Call to undefined function getCookie() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 61
+[31-Oct-2017 11:15:45 UTC] PHP Fatal error:  Call to undefined function getCookie() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 61
+[01-Nov-2017 07:30:23 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/envinfo1/public_html/pos/application/models/Auth_model.php on line 80
+[01-Nov-2017 08:05:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 55
+[01-Nov-2017 09:34:35 UTC] PHP Parse error:  syntax error, unexpected '$newdata' (T_VARIABLE) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 62
+[01-Nov-2017 09:38:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 81
+[01-Nov-2017 09:50:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 69
+[01-Nov-2017 10:19:49 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_create() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 59
+[02-Nov-2017 04:28:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:28:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:29:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:29:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:29:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:29:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 13
+[02-Nov-2017 04:40:12 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 52
+[02-Nov-2017 04:44:24 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 76
+[02-Nov-2017 04:55:08 UTC] PHP Fatal error:  Call to undefined method Company_model::pass_checker() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 151
+[02-Nov-2017 04:55:09 UTC] PHP Fatal error:  Call to undefined method Company_model::mail_checker() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 134
+[02-Nov-2017 05:00:16 UTC] PHP Fatal error:  Call to undefined method Company_model::pass_checker() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 151
+[02-Nov-2017 05:00:18 UTC] PHP Fatal error:  Call to undefined method Company_model::mail_checker() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 134
+[02-Nov-2017 06:52:54 UTC] PHP Fatal error:  Call to undefined method CI_Session::set_data() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 20
+[02-Nov-2017 10:40:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/envinfo1/public_html/pos/application/third_party/MX/Router.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/envinfo1/public_html/pos/application/core/MY_Router.php on line 4
+[02-Nov-2017 10:44:16 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 300
+[02-Nov-2017 10:45:43 UTC] PHP Fatal error:  Call to undefined method MY_Loader::_ci_object_to_array() in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 300
+[04-Nov-2017 05:16:56 UTC] PHP Fatal error:  Undefined class constant '__construct' in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 152
+[04-Nov-2017 05:58:25 UTC] PHP Fatal error:  Call to a member function can_log_in() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 128
+[06-Nov-2017 08:16:05 UTC] PHP Fatal error:  Call to undefined function reg_form_part2() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 180
+[06-Nov-2017 08:29:39 UTC] PHP Fatal error:  Call to undefined method MY_Loader::reg_form_part2() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 179
+[06-Nov-2017 08:30:16 UTC] PHP Fatal error:  Call to undefined function reg_form_part2() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 179
+[06-Nov-2017 08:39:21 UTC] PHP Fatal error:  Call to undefined method MY_Loader::reg_form_part3() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 254
+[06-Nov-2017 11:18:09 UTC] PHP Fatal error:  Call to undefined function do_upload() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 178
+[06-Nov-2017 11:19:10 UTC] PHP Fatal error:  Call to undefined method MY_Loader::do_upload() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 178
+[06-Nov-2017 11:20:36 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 174
+[06-Nov-2017 11:21:18 UTC] PHP Fatal error:  Call to a member function upload() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 180
+[06-Nov-2017 11:22:59 UTC] PHP Fatal error:  Call to a member function upload() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 180
+[06-Nov-2017 11:24:47 UTC] PHP Fatal error:  Call to a member function upload() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 180
+[06-Nov-2017 11:29:04 UTC] PHP Fatal error:  Call to undefined method CI_Upload::errors() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 182
+[06-Nov-2017 11:33:32 UTC] PHP Fatal error:  Call to undefined method CI_Upload::errors() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 182
+[06-Nov-2017 11:33:40 UTC] PHP Fatal error:  Call to undefined method CI_Upload::errors() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 182
+[06-Nov-2017 11:34:28 UTC] PHP Fatal error:  Call to undefined function var_damp() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 184
+[06-Nov-2017 12:04:29 UTC] PHP Fatal error:  Call to undefined method CI_Upload::error() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 165
+[06-Nov-2017 12:04:49 UTC] PHP Fatal error:  Call to undefined method CI_Upload::errors() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 165
+[07-Nov-2017 04:18:11 UTC] PHP Fatal error:  Call to a member function post() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 179
+[07-Nov-2017 05:42:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/envinfo1/public_html/pos/application/modules/employee/views/register.php on line 48
+[07-Nov-2017 05:49:09 UTC] PHP Fatal error:  Call to undefined function var_dumo() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 165
+[07-Nov-2017 07:54:21 UTC] PHP Fatal error:  Call to undefined method CI_Model::construct() in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 9
+[07-Nov-2017 07:57:09 UTC] PHP Fatal error:  Call to undefined method CI_Model::construct() in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 9
+[07-Nov-2017 08:19:58 UTC] PHP Fatal error:  Cannot access empty property in /home/envinfo1/public_html/pos/application/third_party/MX/Controller.php on line 59
+[07-Nov-2017 08:22:36 UTC] PHP Fatal error:  Cannot access empty property in /home/envinfo1/public_html/pos/application/third_party/MX/Controller.php on line 59
+[08-Nov-2017 10:17:14 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/employee/views/index.php on line 39
+[08-Nov-2017 10:17:19 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/employee/views/index.php on line 39
+[08-Nov-2017 11:43:05 UTC] PHP Fatal error:  Call to undefined function encode() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 129
+[09-Nov-2017 06:33:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 54
+[09-Nov-2017 06:33:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 54
+[09-Nov-2017 06:33:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 54
+[09-Nov-2017 06:33:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 76
+[09-Nov-2017 06:33:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 76
+[09-Nov-2017 06:34:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 76
+[09-Nov-2017 06:34:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 77
+[09-Nov-2017 06:35:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 169
+[09-Nov-2017 06:37:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 183
+[09-Nov-2017 10:23:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 135
+[09-Nov-2017 10:23:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 135
+[11-Nov-2017 04:53:04 UTC] PHP Fatal error:  Call to undefined method MY_Loader::index() in /home/envinfo1/public_html/pos/application/controllers/Auth.php on line 92
+[11-Nov-2017 06:11:58 UTC] PHP Fatal error:  Call to undefined method Employee_model::getEmployee() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 113
+[11-Nov-2017 06:25:26 UTC] PHP Fatal error:  Call to undefined method Employee_model::get_info() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 113
+[11-Nov-2017 08:33:11 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 144
+[11-Nov-2017 11:53:07 UTC] PHP Fatal error:  Call to a member function graph_fetch_data() on null in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 151
+[12-Nov-2017 04:21:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/modules/employee/views/header.php on line 1
+[12-Nov-2017 06:16:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/employee/views/emp.php on line 9
+[12-Nov-2017 06:46:20 UTC] PHP Fatal error:  Call to a member function num_rows() on string in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 15
+[12-Nov-2017 06:46:52 UTC] PHP Fatal error:  Call to a member function num_rows() on string in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 15
+[12-Nov-2017 07:13:35 UTC] PHP Fatal error:  Call to undefined method Employee_model::getEmployee() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 143
+[12-Nov-2017 07:17:38 UTC] PHP Fatal error:  Call to undefined method Employee_model::getEmployee() in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 143
+[12-Nov-2017 08:20:48 UTC] PHP Fatal error:  Call to undefined method CI_Session::user() in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 36
+[13-Nov-2017 08:07:55 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 56
+[13-Nov-2017 08:18:29 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 44
+[13-Nov-2017 09:46:21 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 194
+[14-Nov-2017 07:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/envinfo1/public_html/pos/application/views/header.php on line 276
+[14-Nov-2017 07:08:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 27
+[14-Nov-2017 10:59:54 UTC] PHP Fatal error:  Call to a member function dept() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 31
+[14-Nov-2017 11:05:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 58
+[15-Nov-2017 04:56:08 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 26
+[15-Nov-2017 04:57:01 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 26
+[15-Nov-2017 05:10:47 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 26
+[15-Nov-2017 05:12:10 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 26
+[15-Nov-2017 05:13:39 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 26
+[15-Nov-2017 05:16:41 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 27
+[15-Nov-2017 05:16:44 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 27
+[15-Nov-2017 05:17:12 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 27
+[15-Nov-2017 05:17:40 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 27
+[15-Nov-2017 05:19:04 UTC] PHP Fatal error:  Call to a member function get_employeeId() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 27
+[15-Nov-2017 07:37:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::last_insertId() in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 85
+[15-Nov-2017 10:26:51 UTC] PHP Fatal error:  Call to undefined function now() in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 68
+[15-Nov-2017 10:54:14 UTC] PHP Fatal error:  Call to a member function getdate() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 51
+[15-Nov-2017 10:54:51 UTC] PHP Fatal error:  Call to undefined method Leave_model::getdate() in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 51
+[16-Nov-2017 04:12:12 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 60
+[16-Nov-2017 04:12:36 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 60
+[16-Nov-2017 04:13:08 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 60
+[16-Nov-2017 04:13:58 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::affected_rows() in /home/envinfo1/public_html/pos/application/modules/leave/models/Leave_model.php on line 36
+[16-Nov-2017 04:14:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::affected_rows() in /home/envinfo1/public_html/pos/application/modules/leave/models/Leave_model.php on line 36
+[16-Nov-2017 04:22:11 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 31
+[16-Nov-2017 04:57:03 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/models/Leave_model.php on line 48
+[16-Nov-2017 07:53:35 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/leave/views/leave_list.php on line 57
+[16-Nov-2017 09:54:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 49
+[16-Nov-2017 11:03:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 13
+[16-Nov-2017 11:03:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 13
+[16-Nov-2017 11:41:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 9
+[16-Nov-2017 11:41:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/leave/views/add_leave.php on line 9
+[18-Nov-2017 07:43:08 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 63
+[18-Nov-2017 07:43:18 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 63
+[19-Nov-2017 04:40:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/envinfo1/public_html/pos/application/modules/leave/views/leave_details.php on line 30
+[19-Nov-2017 06:01:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/envinfo1/public_html/pos/application/modules/employee/models/Employee_model.php on line 36
+[19-Nov-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 193
+[19-Nov-2017 07:27:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 176
+[19-Nov-2017 07:30:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 194
+[19-Nov-2017 09:06:22 UTC] PHP Fatal error:  Call to a member function num_row() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 155
+[19-Nov-2017 09:06:51 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 155
+[19-Nov-2017 09:51:46 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 155
+[20-Nov-2017 04:31:27 UTC] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 111
+[20-Nov-2017 04:47:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 178
+[20-Nov-2017 04:47:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/employee/controllers/Employee.php on line 178
+[21-Nov-2017 06:03:59 UTC] PHP Fatal error:  Class 'Shift_model' not found in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 232
+[21-Nov-2017 06:04:20 UTC] PHP Fatal error:  Class 'Shift_model' not found in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 232
+[21-Nov-2017 06:13:56 UTC] PHP Fatal error:  Class 'Shift_model' not found in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 232
+[21-Nov-2017 06:16:50 UTC] PHP Fatal error:  Class 'Shift_model' not found in /home/envinfo1/public_html/pos/application/third_party/MX/Loader.php on line 232
+[21-Nov-2017 06:27:57 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 28
+[21-Nov-2017 06:43:09 UTC] PHP Fatal error:  Call to a member function generate() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 72
+[21-Nov-2017 06:56:05 UTC] PHP Fatal error:  Call to undefined method Shift_model::calendar() in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[21-Nov-2017 10:24:16 UTC] PHP Fatal error:  Call to undefined method Shift_model::calendar() in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 24
+[21-Nov-2017 11:07:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 64
+[21-Nov-2017 11:13:36 UTC] PHP Fatal error:  Call to a member function result() on string in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 68
+[22-Nov-2017 04:03:48 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 70
+[22-Nov-2017 04:50:32 UTC] PHP Fatal error:  Cannot use [] for reading in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 69
+[22-Nov-2017 04:53:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 69
+[22-Nov-2017 08:30:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 31
+[22-Nov-2017 08:31:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 41
+[22-Nov-2017 11:28:15 UTC] PHP Fatal error:  Call to a member function find() on null in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 39
+[22-Nov-2017 11:49:22 UTC] PHP Fatal error:  Call to undefined function getElementById() in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 42
+[22-Nov-2017 11:50:06 UTC] PHP Fatal error:  Call to undefined function getElementById() in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 42
+[22-Nov-2017 12:02:12 UTC] PHP Fatal error:  Call to a member function find() on null in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 40
+[22-Nov-2017 12:04:02 UTC] PHP Fatal error:  Call to undefined function file_get_html() in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 40
+[23-Nov-2017 06:01:45 UTC] PHP Parse error:  syntax error, unexpected 'value' (T_STRING), expecting ',' or ';' in /home/envinfo1/public_html/pos/application/modules/shift/views/shift_event.php on line 29
+[23-Nov-2017 06:10:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 65
+[23-Nov-2017 06:35:30 UTC] PHP Fatal error:  Cannot redeclare Shift::index() in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 49
+[23-Nov-2017 06:42:10 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 51
+[23-Nov-2017 06:42:19 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 51
+[23-Nov-2017 06:47:46 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 127
+[23-Nov-2017 06:48:22 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 127
+[23-Nov-2017 06:49:18 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 127
+[23-Nov-2017 06:51:35 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 127
+[23-Nov-2017 06:52:44 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 127
+[23-Nov-2017 07:03:26 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[23-Nov-2017 07:03:43 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[23-Nov-2017 07:04:03 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[23-Nov-2017 07:04:06 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[23-Nov-2017 07:07:14 UTC] PHP Fatal error:  Call to a member function view() on null in /home/envinfo1/public_html/pos/application/modules/shift/controllers/Shift.php on line 23
+[23-Nov-2017 07:55:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 49
+[23-Nov-2017 10:03:01 UTC] PHP Parse error:  syntax error, unexpected '$cal_data' (T_VARIABLE) in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 51
+[23-Nov-2017 10:09:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/envinfo1/public_html/pos/application/modules/shift/models/Shift_model.php on line 75
+[25-Nov-2017 11:48:38 UTC] PHP Fatal error:  Cannot redeclare Training::training_management() in /home/envinfo1/public_html/pos/application/modules/training/controllers/Training.php on line 54
+[27-Nov-2017 04:56:03 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/modules/employee/views/add_dept.php on line 25
+[14-Jan-2018 05:33:20 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/views/header.php on line 211
+[14-Jan-2018 05:39:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/envinfo1/public_html/pos/application/views/header.php on line 339
+[15-Jan-2018 04:56:02 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/views/product/dp_form.php on line 12
+[16-Jan-2018 06:55:19 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 168
+[16-Jan-2018 10:03:38 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/envinfo1/public_html/pos/application/modules/shift/views/main.php on line 133
+[18-Jan-2018 06:53:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/envinfo1/public_html/pos/application/modules/leave/views/leave_list.php on line 239
+[18-Jan-2018 09:28:34 UTC] PHP Fatal error:  Call to a member function result() on null in /home/envinfo1/public_html/pos/application/modules/leave/controllers/Leave.php on line 136

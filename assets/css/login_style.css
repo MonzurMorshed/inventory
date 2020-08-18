@@ -1,0 +1,85 @@
+.login_form{
+        width: 50%;
+        margin: 0 auto;
+        background: #f3dddd;
+        padding: 2%;
+    }
+    .first_form .panel-title{
+        width: 50%;
+        margin: 0 auto;
+        text-transform:uppercase;
+    }
+    .c_image img {
+    	margin: 0 auto;
+    	display: table;
+    	margin-top: 50px;
+    }
+    .login_form .radio {
+    	width: 40% !important;
+    	margin: 0 auto;
+    	text-transform: uppercase;
+    	font-weight: 600;
+    }
+    .login_form span{
+        margin:0 10px;
+    }
+    .login_form .btn{
+        width: 40% !important;
+    	text-transform: uppercase;
+    	font-weight: 600;
+    	border-radius: 0px !important;
+        margin: 0 auto;
+        margin-top: 0px;
+        display: table;
+        margin-top: 27px;
+    }
+    .adminloginpanel-header h2 {
+        margin: 0 auto;
+        display: table;
+        margin-top: 20px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .login_admin .fa {
+    	font-size: 25px;
+    	position: relative;
+    	top: 30px;
+    	float: right;
+    	color: #f72312;
+    	right: 10px;
+    }
+    .elogin_admin .fa {
+    	font-size: 20px;
+    	position: relative;
+    	bottom: 25px;
+    	float: right;
+    	color: #f72312;
+    	right: 10px;
+    }
+    .main-footer {
+    	background: #fff;
+    	padding: 15px;
+    	color: #444;
+    	border-top: 1px solid #d2d6de;
+    	margin: 0px !important;
+    }
+    .adminloginpanel-header {
+    	background: #598e63 !important;
+    	padding: 10px;
+    	color: #fff;
+    }
+    .adminloginpanel-header .panel-title{
+        margin-bottom: 15px;
+    }
+    .adminlogin .panel-body{
+    	background: #c4a9a9;
+    	padding: 6% !important;
+    }
+    .adminlogin .btn {
+    	border-radius: 0px;
+    	padding: 2%;
+    	text-transform: uppercase;
+    	width: 49.7%;
+    	font-weight: 600;
+    	font-size: 16px;
+    }
