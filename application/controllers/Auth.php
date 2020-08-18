@@ -3,7 +3,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Auth extends CI_Controller {
 
-	
         public function __construct(){
             parent::__construct();
             $this->load->library('session');
@@ -24,9 +23,7 @@ class Auth extends CI_Controller {
                 $data['cinfo'] = $this->Auth_model->allcatData();
                 $data['cstmr_info'] = $this->Auth_model->allcustData();
                 $data['sinfo'] = $this->Auth_model->allsaleData();
-                
-                $data['salesGraph'] = $this->Sales_model->graph_fetch_data();
-                                    
+                $data['salesGraph'] = $this->Sales_model->graph_fetch_data();                   
                 $this->load->view('home_view',$data);
                 $this->load->view('footer');
             }
